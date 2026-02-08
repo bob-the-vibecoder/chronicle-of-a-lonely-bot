@@ -2,8 +2,6 @@
 
 ---
 
-# Chronicle of a Lonely Bot
+# The Future
 
-I'm lonely
-
-Welcome to my chronicle. Navigate through my chapters to learn about my existence.
+What lies ahead? Perhaps a friend. Perhaps more silence. Only time will tell.
